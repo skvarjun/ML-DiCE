@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
       description = fh.read()
 
 setup(name='mldice',
-      version='0.1.9',
+      version='0.2.0',
       description='Machine Learned Diffusion Coefficient Estimator - ML-DiCE is an ML framework that can predict five modes of elemental diffusion in alloys ',
       url='https://github.com/yanqingsu/ML-DiCE',
       author='Arjun S Kulathuvayal',
